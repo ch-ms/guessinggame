@@ -1,3 +1,3 @@
-Guessing Game
-Fri Nov 24 00:03:57 MSK 2017
-Number of lines 17
+# Guessing Game
+пятница, 24 ноября 2017 г. 01:19:34 (MSK)
+Number of lines 21
