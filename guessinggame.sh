@@ -1,3 +1,5 @@
+#!/bin/bash
+
 function get_lines {
   echo $(ls | wc -l)
 }
